@@ -1,0 +1,6 @@
+cat alx
+cat > school
+ls
+git add .
+git commit -m "Staring to code today, so cool"
+git push
